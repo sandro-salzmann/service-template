@@ -1,0 +1,21 @@
+# general
+SERVICE_NAME=service-template
+
+# logging
+LOG_LEVEL=debug
+LOG_FORMATTER=human
+
+# express
+EXPRESS_PORT=8070
+ALLOWED_CORS_ORIGIN=http://localhost:3000
+
+# mongo db
+MONGO_HOST=localhost
+MONGO_USERNAME=app
+MONGO_PASSWORD=password
+MONGO_DATABASE=mindy
+
+# rabbitmq bus
+RABBITMQ_HOST=localhost
+RABBITMQ_USERNAME=root
+RABBITMQ_PASSWORD=password
