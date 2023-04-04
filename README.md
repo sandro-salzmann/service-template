@@ -2,6 +2,8 @@
 
 Template for microservices.
 
+![Overview Diagram](./docs/overview.png)
+
 ## HTTP API
 
 `/api/v1/examples/:id`
